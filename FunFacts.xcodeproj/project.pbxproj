@@ -14,6 +14,7 @@
 		0221160E1B9FA43400AF6225 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0221160C1B9FA43400AF6225 /* LaunchScreen.xib */; };
 		0221161A1B9FA43400AF6225 /* FunFactsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022116191B9FA43400AF6225 /* FunFactsTests.swift */; };
 		022116261B9FC02700AF6225 /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022116251B9FC02700AF6225 /* FactBook.swift */; };
+		022116281B9FCE8600AF6225 /* ColorWheel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022116271B9FCE8600AF6225 /* ColorWheel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		022116181B9FA43400AF6225 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		022116191B9FA43400AF6225 /* FunFactsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunFactsTests.swift; sourceTree = "<group>"; };
 		022116251B9FC02700AF6225 /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
+		022116271B9FCE8600AF6225 /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				022116251B9FC02700AF6225 /* FactBook.swift */,
 				022116051B9FA43400AF6225 /* ViewController.swift */,
 				022116071B9FA43400AF6225 /* Main.storyboard */,
+				022116271B9FCE8600AF6225 /* ColorWheel.swift */,
 				0221160A1B9FA43400AF6225 /* Images.xcassets */,
 				0221160C1B9FA43400AF6225 /* LaunchScreen.xib */,
 				022116011B9FA43400AF6225 /* Supporting Files */,
@@ -218,6 +221,7 @@
 				022116261B9FC02700AF6225 /* FactBook.swift in Sources */,
 				022116061B9FA43400AF6225 /* ViewController.swift in Sources */,
 				022116041B9FA43400AF6225 /* AppDelegate.swift in Sources */,
+				022116281B9FCE8600AF6225 /* ColorWheel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

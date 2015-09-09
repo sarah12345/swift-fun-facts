@@ -68,6 +68,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="funFactButton" destination="6Cf-GH-mRz" id="lfJ-HR-Lnf"/>
                         <outlet property="funFactLabel" destination="1hy-th-jr0" id="N19-Gq-jwL"/>
                     </connections>
                 </viewController>
